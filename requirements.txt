@@ -3,3 +3,4 @@ uvicorn
 requests
 google-generativeai
 dateparser
+apscheduler
